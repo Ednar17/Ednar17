@@ -5,6 +5,7 @@ Développeur full stack Java / Angular, avec une solide base data. Diplômé d'u
 **Projets**
 
 - [local-finance-analyzer](https://github.com/Ednar17/local-finance-analyzer) : analyse financière avec une IA locale (RAG), Spring Boot 3, Angular 17, FastAPI, PostgreSQL + pgvector, Docker
+- [prix-immo-idf](https://github.com/Ednar17/prix-immo-idf) : prix médians au m² en Île-de-France à partir de 1,3 million de lignes DVF, pipeline DuckDB et PySpark aux résultats identiques, CI
 - [nettoyage-excel](https://github.com/Ednar17/nettoyage-excel) : nettoyage de fichiers Excel/CSV en Python, 156 tests, CI Linux et Windows
 
 **Expérience**
